@@ -24,4 +24,10 @@ h2 {
 }h6 {
   color: white;
   text-align: center;font-size: 40px;
+}h7 {
+  color: green;
+  text-align: center;font-size: 40px;
+}h8 {
+  color: yellow;
+  text-align: center;font-size: 40px;
 }
